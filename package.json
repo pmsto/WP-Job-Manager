@@ -54,7 +54,7 @@
 		"grunt-zip": "^0.17.1",
 		"jest": "^24.8.0",
 		"lodash-webpack-plugin": "^0.11.5",
-		"merge": ">=1.2.1",
+		"merge": ">=2.1.1",
 		"mini-css-extract-plugin": "^0.4.5",
 		"node-sass": "^4.12.0",
 		"prettier": "https://github.com/Automattic/wp-prettier/releases/download/wp-1.17.0/wp-prettier-1.17.0.tgz",
